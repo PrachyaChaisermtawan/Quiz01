@@ -12,18 +12,15 @@ public class Quiz01 {
     student1.ShowDetails();
     System.out.println("Student 1");
     student2.ShowDetails();
-    System.out.println("Student 1");
+    System.out.println("Student 2");
     student3.ShowDetails();
-    System.out.println("Student 1");
+    System.out.println("Student 3");
     student4.ShowDetails();
-    System.out.println("Student 1");
+    System.out.println("Student 4");
   
   
   }
 }  
-  
-  
-  
   
   class Student{
     String stName;
